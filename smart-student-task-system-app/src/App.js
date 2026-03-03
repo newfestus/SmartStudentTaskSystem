@@ -70,7 +70,7 @@ export default function App() {
     <div style={{ maxWidth: 800, margin: "40px auto", fontFamily: "Arial" }}>
       <h1>Smart Student Task System</h1>
       <p style={{ marginTop: -10, color: "#555" }}>
-        Milestone 1: UI Draft + Connected Task List (Backend CRUD)
+        Coming soon: AI-powered task suggestions, calendar sync, and more! Stay tuned.
       </p>
 
       {/* TASK FORM UI */}
@@ -167,7 +167,7 @@ export default function App() {
       </div>
 
       <p style={{ marginTop: 20, color: "#777", fontSize: 12 }}>
-        Tip: Keep backend running on port 5000 and React on 3000.
+        ©2026.
       </p>
     </div>
   );
